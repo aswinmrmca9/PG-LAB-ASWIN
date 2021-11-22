@@ -1,0 +1,6 @@
+a,b=input("enter a two values:").split()
+print("number of boys:",a)
+print("number of girls:",b)
+x,y=(int(x) for x in input("enter two values").split())
+print("firt number:",x)
+print("second number:",y)              
